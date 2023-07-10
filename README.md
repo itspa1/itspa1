@@ -3,7 +3,7 @@
 ---
 
 - I'm a polyglot developer, currently working on a few projects in Python and JavaScript.
-- Portfolio: [itspavan.dev](https://itspavan.dev)
+- Portfolio: [itspavan.com](https://itspavan.com)
 
 ### Experience
 
